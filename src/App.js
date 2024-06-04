@@ -7,7 +7,7 @@ const App = () => {
   const [word, setWord] = useState("bootcamp");
   const [arrLetters, setArrLetters] = useState([]);
   const [wrong, setWrong] = useState(0);
-  const maxAttempts = 6;
+  const maxAttempts = 7;
 
   const handleGuess = (letter) => {
     if (!arrLetters.includes(letter)) {
