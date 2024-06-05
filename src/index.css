@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap");
 body {
-  background-color: cornflowerblue;
-  /* background: url("https://mir-s3-cdn-cf.behance.net/project_modules/1400/c221c957092339.59c8dfa58d6d7.jpg"); */
+  /* background-color: cornflowerblue; */
+  background: url("https://mir-s3-cdn-cf.behance.net/project_modules/1400/c221c957092339.59c8dfa58d6d7.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
 }
